@@ -1,4 +1,4 @@
 wildcard
 ========
 
-This is an IntelliJ workspace with my solutions to the challenges.
+This is an IntelliJ project with my solutions to the challenges.  It is a Maven project.
